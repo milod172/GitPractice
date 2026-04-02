@@ -11,3 +11,5 @@ React + Vite + TypeScript frontend for a Storage Management app.
 ## Run
 1. npm install
 2. npm run dev
+
+## Edit new things here
